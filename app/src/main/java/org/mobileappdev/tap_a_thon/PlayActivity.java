@@ -18,7 +18,7 @@ public class PlayActivity extends AppCompatActivity {
     UserPreferences pref;
     int tapCount = 0;
 
-    private static final long START_TIME_IN_MILLIS = 18000;
+    private static final long START_TIME_IN_MILLIS = 30000;
     private CountDownTimer countDownTimer;
     private boolean timerRunning = false;
 

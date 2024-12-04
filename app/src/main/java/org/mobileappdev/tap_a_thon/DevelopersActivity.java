@@ -19,6 +19,7 @@ public class DevelopersActivity extends AppCompatActivity {
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
             getSupportActionBar().setHomeAsUpIndicator(R.drawable.ic_arrow_back);
             getSupportActionBar().setTitle("Developers");
+            getSupportActionBar().setElevation(0);
             getSupportActionBar().setDisplayShowTitleEnabled(true);
             getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#E5733F")));
         }

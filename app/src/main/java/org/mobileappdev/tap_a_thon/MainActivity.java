@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         if (getSupportActionBar() != null) {
             getSupportActionBar().setTitle("Tap-a-Thon");
             getSupportActionBar().setDisplayShowTitleEnabled(true);
+            getSupportActionBar().setElevation(0);
             getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#E5733F")));
         }
     }
