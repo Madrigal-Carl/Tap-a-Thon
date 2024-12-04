@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tap-a-Thon</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="about_app">Tap-a-Thon is an exciting, fast-paced game where players compete to achieve the highest score by tapping as quickly as possible. The gameplay is simple yet addictive: tap the screen to earn points and aim to beat your own record or challenge friends to see who can be the ultimate tapping champion. With each tap, your score climbs, but maintaining a fast pace requires sharp reflexes and relentless energy. Compete against others on the leaderboard and fight for the top spot—every tap matters. Whether playing for fun, to beat personal bests, or to claim victory over friends, Tap-a-Thon guarantees endless fun and a thrilling, competitive experience.</string>
+    <string name="perlada_description">"I'm Jorlie Ann Perlada, born on November 8, 2003. I'm an IT student with a deep interest in technology and problem-solving. Outside of my studies, I have a strong passion for volleyball, which helps me stay active and hone my teamwork skills. I'm always looking for opportunities to learn and grow, both in the tech world and on the court."</string>
+    <string name="vizarra_description">"I am Jeraldine May T. Vizarra a passionate and creative game developer with a strong focus on designing immersive experiences. Skilled in programming, problem-solving, and game mechanics, I use tools like Unity, Unreal Engine, and scripting languages like C++ or Python to bring ideas to life. I enjoy collaborating with artists, designers, and other developers to create engaging worlds and interactive gameplay. My goal is to craft games that captivate players and leave a lasting impression."</string>
+    <string name="armeldez_description">"I am Jean P. Armeldez a dedicated game developer with a deep love for storytelling and interactive design. With a strong foundation in programming and game engines, I specialize in building immersive environments and seamless gameplay. I’m driven by a commitment to crafting games that inspire, entertain, and resonate with players worldwide."</string>
+    <string name="pampola_description">"I am Princess Dianne F. Pampola I thrive on transforming imaginative concepts into fully realized, interactive experiences. With expertise in coding, level design, and optimizing performance, I aim to create games that are both engaging and technically polished. My passion lies in exploring innovative gameplay mechanics and delivering unique experiences to players."</string>
+</resources>
